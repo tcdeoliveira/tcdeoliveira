@@ -15,11 +15,12 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div>
 
+##
 
 <div align="center">
   <a href="https://github.com/tcdeoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tcdeoliveira&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcdeoliveira&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tcdeoliveira&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcdeoliveira&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
 ##
