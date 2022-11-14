@@ -1,8 +1,6 @@
-### Hello there 👋
+### Hello there 👋 I'm Tiago Oliveira
 
-- 🔭 I’m currently working on Take The Wind
-- 🌱 I’m currently .NET | React/Next
-
+- 🔭 I’m currently working as FUll-Stack Develper on Take The Wind
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -16,15 +14,7 @@
 </div>
 
 ##
-
-<div>
-  <a href="https://github.com/tcdeoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tcdeoliveira&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcdeoliveira&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-##
-  
+ 
 <div> 
   <a href="https://instagram.com/tcdeoliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:oi.tiagoclaudio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
