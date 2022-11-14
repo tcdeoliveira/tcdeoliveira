@@ -14,9 +14,9 @@
   
   <br>
   
-  <img src="https://img.shields.io/badge/css-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/scss-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/css-5C2D91?style=for-the-badge&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/scss-5C2D91?style=for-the-badge&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-5C2D91?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
 ##
